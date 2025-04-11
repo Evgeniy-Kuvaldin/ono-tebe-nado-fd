@@ -77,8 +77,8 @@ html {
 .title {
   position: relative;
   z-index: 2;
-  width: 103%;
-  padding: 165px 50px 0;
+  width: 100%;
+  padding: 165px 20px 0 50px;
   color: white;
   font-weight: bold;
   font-size: 100px;
@@ -92,7 +92,7 @@ html {
 }
 
 .title-center {
-  line-height: 1.53;
+  line-height: 1.55;
   text-align: center;
 }
 
